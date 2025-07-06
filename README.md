@@ -1,4 +1,5 @@
-
+# 💫 Hi 👋, I'm Hassnain Khan
+A passionate Computer Science student at UET Peshawar. Currently diving into Flutter development and building sleek, functional apps to turn ideas into reality. Always learning, always coding."
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hassnain.khan.555971/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hsn_serene/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnainkhan6173@gmail.com) 
 
